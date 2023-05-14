@@ -32,5 +32,7 @@ services:
         sync: false
       - key: FILTER_TYPE
         # value: FILTER_TYPE
+        sync: false
       - key: SKIP_NO
         # VALUE: SKIP_NO
+        sync: false
