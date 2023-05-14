@@ -2,7 +2,7 @@ services:
   # A Docker web service
   - type: web
     name: neil
-    env: docker
+    env: 
     region: Singapore
     plan: free
     envVars:
