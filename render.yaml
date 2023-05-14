@@ -24,8 +24,8 @@ services:
       - key: TO_CHATS
         # value: TO_CHATS
         sync: false
-      - key: TELEGRAM_SESSION
-        # value: TELEGRAM_SESSION
+      - key: SESSION
+        # value: SESSION
         sync: false
       - key: CAPTION
         # value: CAPTION
